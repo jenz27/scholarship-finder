@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Merit Excellence Scholarship",
+    "provider": "State University Foundation",
+    "amount": "$15,000",
+    "type": "merit",
+    "description": "Awarded to outstanding students with exceptional academic performance and leadership qualities.",
+    "deadline": "2025-08-15",
+    "eligibility": ["CPI 3.5+", "Undergraduate", "US Citizen"],
+    "matchScore": 92,
+    "applicationLink": "https://example.com/apply/1"
+  },
+  {
+    "title": "STEM Innovation Grant",
+    "provider": "Tech Companies Alliance",
+    "amount": "$25,000",
+    "type": "merit",
+    "description": "Supporting the next generation of innovators in Science, Technology, Engineering, and Mathematics.",
+    "deadline": "2025-07-20",
+    "eligibility": ["Engineering/CS", "CPI 3.0+", "Any Nationality"],
+    "matchScore": 88,
+    "applicationLink": "https://example.com/apply/2"
+  },
+  {
+    "title": "First Generation College Support",
+    "provider": "Education Equity Foundation",
+    "amount": "$8,000",
+    "type": "need",
+    "description": "Dedicated to supporting first-generation college students in achieving their educational dreams.",
+    "deadline": "2025-09-30",
+    "eligibility": ["First Generation", "Any Field", "Income < $60K"],
+    "matchScore": 75,
+    "applicationLink": "https://example.com/apply/3"
+  },
+  {
+    "title": "Inlaks Shivdasani Foundation Scholarship",
+    "provider": "Inlaks Foundation",
+    "amount": "Up to $100,000",
+    "type": "merit",
+    "description": "Funding for Indian students pursuing postgraduate studies at top institutions abroad.",
+    "deadline": "2025-09-15",
+    "eligibility": ["Indian Citizen", "Age < 30", "First-class degree"],
+    "matchScore": 91,
+    "applicationLink": "https://example.com/apply/4"
+  },
+  {
+    "title": "Narotam Sekhsaria Postgraduate Scholarship",
+    "provider": "Narotam Sekhsaria Foundation",
+    "amount": "Up to ₹20 lakhs (loan-based)",
+    "type": "merit",
+    "description": "Interest-free loan scholarships for Indian students going abroad for higher studies.",
+    "deadline": "2025-08-16",
+    "eligibility": ["Indian Citizen", "Graduate Degree", "Admitted to International University"],
+    "matchScore": 85,
+    "applicationLink": "https://example.com/apply/5"
+  },
+  {
+    "title": "Rhodes Scholarship",
+    "provider": "Rhodes Trust",
+    "amount": "Full Tuition + Stipend",
+    "type": "merit",
+    "description": "Prestigious international scholarship for postgraduate study at the University of Oxford.",
+    "deadline": "2025-08-01",
+    "eligibility": ["Indian Citizen", "Age 18-24", "Exceptional Academic Record"],
+    "matchScore": 96,
+    "applicationLink": "https://example.com/apply/6"
+  },
+  {
+    "title": "Generation Google Scholarship (APAC)",
+    "provider": "Google",
+    "amount": "$1,000",
+    "type": "merit",
+    "description": "Scholarship for women in computer science across the Asia-Pacific region.",
+    "deadline": "2025-08-10",
+    "eligibility": ["Women", "Computer Science", "Enrolled in University"],
+    "matchScore": 87,
+    "applicationLink": "https://example.com/apply/7"
+  },
+  {
+    "title": "Khorana Program for Scholars",
+    "provider": "IUSSTF & DBT India",
+    "amount": "Travel, stipend, insurance covered",
+    "type": "merit",
+    "description": "Research internship program for Indian undergrads in the US.",
+    "deadline": "2025-07-31",
+    "eligibility": ["Indian Citizen", "Biotech/Life Sciences", "CGPA 8.0+"],
+    "matchScore": 90,
+    "applicationLink": "https://example.com/apply/8"
+  },
+  {
+    "title": "Adobe Women-in-Technology Scholarship",
+    "provider": "Adobe",
+    "amount": "$10,000 + mentorship + internship opportunity",
+    "type": "merit",
+    "description": "Supports outstanding female students in technology fields with scholarships and career opportunities.",
+    "deadline": "2025-09-30",
+    "eligibility": ["Women", "Computer Science", "Full-time student"],
+    "matchScore": 89,
+    "applicationLink": "https://example.com/apply/9"
+  },
+  {
+    "title": "DAAD EPOS Scholarship",
+    "provider": "DAAD (Germany)",
+    "amount": "Full tuition + monthly stipend + travel allowance",
+    "type": "need+merit",
+    "description": "Scholarship for students from developing countries to pursue a master's degree in Germany.",
+    "deadline": "2025-10-15",
+    "eligibility": ["Developing Countries", "Bachelor's Degree", "2 years work experience"],
+    "matchScore": 92,
+    "applicationLink": "https://example.com/apply/10"
+  }
+]
